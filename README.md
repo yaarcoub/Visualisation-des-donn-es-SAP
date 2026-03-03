@@ -138,20 +138,4 @@ Utilisation de Socket.io pour :
 
 ---
 
-## 🚀 Installation & Lancement
 
-### 1️⃣ Backend
-
-```bash
-npm install
-npm start
-
-### 2️⃣ Backend
-
-```bash
-npx install
-npx start
-
-```bash
-npm install
-npm start
